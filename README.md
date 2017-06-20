@@ -1,2 +1,5 @@
 # openjpa
-openjpa
+
+OpenJPA
+
+Java - MySQL connection
